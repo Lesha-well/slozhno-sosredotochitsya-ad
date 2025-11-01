@@ -431,10 +431,6 @@
     grid-row: 3 / 4;
   }
 
-  .footer {
-    --min-height: 1024px;
-  }
-
   .footer_title {
     justify-content: center;
     margin-top: 62px;
